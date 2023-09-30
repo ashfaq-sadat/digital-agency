@@ -366,6 +366,53 @@ header {
     margin: 60px 0 25px;
 }
 
+.footer-h2 {
+    color: #222136;
+
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    /* 155.556% */
+}
+
+.footer-list li {
+    margin-bottom: 10px;
+}
+
+.footer-abt {
+    color: rgba(34, 33, 54, 0.70);
+    font-family: Poppins;
+
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+
+.subscribe-form {
+    margin: 16px 0 20px;
+    position: relative;
+
+}
+
+.subscribe-input {
+    width: 280px;
+    height: 40px;
+    flex-shrink: 0;
+
+}
+
+.subscribe-btn {
+
+    position: absolute;
+    top: 15%;
+    right: 10%;
+    border: none;
+    background-color: none;
+
+}
+
 /* footer top end */
 
 
