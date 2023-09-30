@@ -1,0 +1,511 @@
+/* Small devices (landscape phones, less than 576px ) */
+@media (max-width: 575.98px) {
+	.bg-shape {
+		width: 300px;
+		height: 503px;
+		left: -3px;
+		top: 200px;
+	}
+
+	.agency-h2 {
+		margin: 30px 0;
+	}
+
+	header {
+		margin: 20px auto;
+	}
+
+	.c_nav ul li {
+		text-align: center;
+	}
+
+	.c_nav ul li a {
+		margin-right: 0;
+		padding: 5px 0;
+	}
+
+	/* content  */
+
+	.agency-h1 {
+		font-size: 30px;
+		line-height: 45px;
+	}
+
+	.content {
+		margin-bottom: 0;
+	}
+
+	.banner-left {
+		padding: 0;
+		text-align: center;
+	}
+
+	.banner-left h2 {
+		margin: 15px 0 2px;
+	}
+
+
+	.banner-left p {
+		font-size: 16px;
+		margin: 15px 0
+	}
+
+	.banner-right {
+		text-align: center;
+	}
+
+
+	.banner-right img {
+		width: 90%;
+	}
+
+	.agency-btn {
+		margin: auto;
+	}
+
+
+	/* about us */
+
+	.about-us {
+		padding: 10px 0;
+	}
+
+	.about-left {
+
+		padding-right: 5px;
+		text-align: center;
+	}
+
+	.about-left img {
+		width: 100%;
+
+	}
+
+	.about-right {
+
+		padding-right: 0;
+		text-align: center;
+
+	}
+
+	.about-right p {
+		margin: 20px 0;
+	}
+
+
+
+	.about-right p {
+		margin: 15px 0;
+		padding: 0px 10px;
+	}
+
+
+
+	/* portfolio */
+
+
+
+	.portfolio-left,
+	.portfolio-right {
+		text-align: center;
+	}
+
+	.portf-card {
+		margin-top: 20px;
+	}
+
+
+
+	/* testimonial */
+
+	.testimony {
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+
+	.testimony-h1 {
+		padding: 0px;
+	}
+
+	.slider-items {
+		padding-bottom: 70px;
+	}
+
+	.carousel-cap p {
+		margin: 40px 0px 25px;
+	}
+
+	.carousel-img {
+		margin-top: 35px;
+	}
+
+	/* testimony */
+	.blog {
+		margin: 10px 0 10px;
+	}
+
+	.blog-item {
+		margin: 20px 0 20px;
+		text-align: center;
+	}
+
+	.blog-text {
+		margin: 20px;
+	}
+
+	/* .contact */
+	.contact {
+		margin: 10px 0 10px;
+	}
+
+	.contact-text {
+		font-size: 30px;
+		text-align: center;
+		line-height: 45px;
+	}
+
+	.contact-btn {
+		margin-top: 20px;
+	}
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.bg-shape {
+		width: 350px;
+		height: 503px;
+
+		left: 146px;
+		top: 495px;
+	}
+
+	.agency-h1 {
+		font-size: 40px;
+		line-height: 50px;
+	}
+
+	.agency-h2 {
+		margin: 20px 0;
+	}
+
+	header {
+		margin: 35px auto
+	}
+
+	.c_nav ul li {
+		text-align: center;
+	}
+
+	.c_nav ul li a {
+		margin-right: 0;
+		padding-right: 0;
+	}
+
+	/* content  */
+
+	.banner-left {
+		padding-top: 20px;
+		text-align: center;
+	}
+
+
+	.banner-left h1 {
+		font-size: 35px;
+		line-height: 48px;
+	}
+
+	.banner-left p {
+		font-size: 16px;
+		margin: 25px 0
+	}
+
+	.banner-right {
+		text-align: center;
+	}
+
+	.banner-right img {
+		width: 65%;
+	}
+
+	.agency-btn {
+		margin: auto;
+	}
+
+	/* about us */
+
+	.about-us {
+		padding: 10px 0;
+	}
+
+	.about-left {
+
+		padding-right: 5px;
+		text-align: center;
+	}
+
+	.about-left img {
+		width: 70%;
+
+	}
+
+	.about-right {
+
+		padding-right: 0;
+		text-align: center;
+
+	}
+
+	.about-right p {
+		margin: 20px 0;
+	}
+
+
+
+	.about-right p {
+		margin: 25px 0;
+	}
+
+	/* portfolio */
+
+	.portfolio-left,
+	.portfolio-right {
+		text-align: center;
+	}
+
+	/* testimonial */
+
+	.testimony {
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+
+	.slider-items {
+		padding-bottom: 70px;
+	}
+
+	.carousel-cap p {
+		margin: 40px 0px 25px;
+	}
+
+	.carousel-img {
+		margin-top: 35px;
+	}
+
+	/* testimony */
+	.blog {
+		margin: 10px 0 10px;
+	}
+
+	.blog-item {
+		margin: 20px 0 20px;
+		text-align: center;
+	}
+
+	.blog-text {
+		margin: 20px;
+	}
+
+
+	/* .contact */
+	.contact-sec {
+		margin: 10px 0 10px;
+	}
+
+	.contact-text {
+		padding: 0 43px 0;
+		font-size: 30px;
+		text-align: center;
+		line-height: 45px;
+	}
+
+	.contact-btn {
+		margin-top: 20px;
+	}
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+
+	.bg-shape {
+		left: -130px;
+		top: 17px;
+	}
+
+	header {
+		margin: 35px auto
+	}
+
+	.c_nav ul li {
+		text-align: center;
+	}
+
+	.c_nav ul li a {
+		margin-right: 0;
+		padding-right: 0;
+	}
+
+	/* content  */
+
+	.content {
+		margin-top: 20px;
+
+	}
+
+	.banner-left {
+		padding-top: 0;
+	}
+
+	.banner-left h1 {
+
+		font-size: 45px;
+		line-height: 60px;
+	}
+
+	.banner-left p {
+		margin: 35px 0;
+	}
+
+
+	/* about us */
+	.about-us {
+		padding: 50px 0;
+	}
+
+	.about-left {
+
+		padding-right: 5px;
+	}
+
+	.about-right {
+		padding-right: 0px;
+	}
+
+
+
+	.about-right p {
+		margin: 15px 0;
+		padding-right: 0;
+	}
+
+	/* porfolio */
+	.agency-h1 {
+		font-size: 40px;
+		line-height: 50px;
+	}
+
+	.portfolio-right {
+		padding-top: 45px;
+	}
+
+	/* testimonial */
+
+	.testimony {
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+
+	.slider-items {
+		padding-bottom: 70px;
+	}
+
+	.carousel-cap p {
+		margin: 40px 60px 40px;
+	}
+
+	.carousel-img {
+		margin-top: 50px;
+	}
+
+	/* testimony */
+
+
+	/* blog */
+	.blog {
+		margin: 40px 0 40px
+	}
+
+	.blog-item {
+		margin: 40px 0 40px;
+
+	}
+
+	/* contacts */
+	.contact-sec {
+		margin: 50px 0 50px;
+	}
+
+
+
+
+
+}
+
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+	/* header */
+
+	.bg-shape {
+		left: -130px;
+		top: 17px;
+	}
+
+
+	header {
+		margin-top: 25px;
+		margin-bottom: 25px;
+	}
+
+	/* banner section  */
+	.content {
+		padding: 25px 0;
+	}
+
+	/* about us */
+	.about-right {
+		padding-right: 0px;
+	}
+
+	/* testimonial */
+
+	/* .testimony {
+		margin-top: 50px;
+		margin-bottom: 50px;
+	} */
+
+	.slider-items {
+		padding-bottom: 70px;
+	}
+
+	.carousel-cap p {
+		margin: 40px 0px 40px;
+	}
+
+	.carousel-img {
+		margin-top: 50px;
+	}
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+	.bg-shape {
+		left: -86px;
+		top: 4px;
+	}
+}
+
+/* XX-Large devices (larger desktops, 1400px and up)  */
+@media (min-width: 1400px) {
+	.bg-shape {
+		left: -145px;
+	}
+
+	.about-right {
+		padding-right: 75px;
+	}
+}
