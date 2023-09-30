@@ -359,3 +359,32 @@ header {
     color: #4270EC;
 
 }
+
+/* footer -top start */
+
+.footer-top {
+    margin: 60px 0 25px;
+}
+
+/* footer top end */
+
+
+/* footer start */
+footer {
+    padding: 25px 0 30px;
+    background-color: #282531;
+}
+
+footer p {
+    color: #cdcdcd;
+
+    text-align: center;
+}
+
+footer p a {
+    color: #cdcdcd;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+/* footer ends */
