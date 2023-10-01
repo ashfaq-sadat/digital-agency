@@ -7,6 +7,7 @@
 
 /* common CSS */
 html {
+    padding: 0;
     scroll-behavior: smooth;
 }
 
@@ -272,7 +273,7 @@ header {
 }
 
 .blog-item {
-    margin: 100px 0 100px;
+    margin-top: 100px;
 }
 
 .blog-img img {
@@ -367,20 +368,25 @@ header {
 }
 
 .footer-h2 {
-    color: #222136;
+
+
 
     font-size: 18px;
     font-style: normal;
     font-weight: 500;
     line-height: 28px;
+    color: #222136;
     /* 155.556% */
 }
+
+
 
 .footer-list li {
     margin-bottom: 10px;
 }
 
 .footer-abt {
+    padding-right: 50px;
     color: rgba(34, 33, 54, 0.70);
     font-family: Poppins;
 
@@ -391,12 +397,14 @@ header {
 }
 
 .subscribe-form {
-    margin: 16px 0 20px;
+    width: 280px;
+    margin: 0 0 8px;
     position: relative;
 
 }
 
 .subscribe-input {
+
     width: 280px;
     height: 40px;
     flex-shrink: 0;
@@ -406,8 +414,8 @@ header {
 .subscribe-btn {
 
     position: absolute;
-    top: 15%;
-    right: 10%;
+    top: 20%;
+    right: 3%;
     border: none;
     background-color: none;
 
